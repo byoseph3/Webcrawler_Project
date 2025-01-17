@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1737098703 source:c:\users\yosep\documents\webcrawler_project\webcrawler_project\driver.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
